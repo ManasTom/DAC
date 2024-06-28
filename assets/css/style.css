@@ -4087,6 +4087,7 @@ h6,
 
 .navbar-area .navbar-collapse .navbar-nav li a {
   color: #000000;
+  text-decoration: none;
 }
 
 .navbar-area .navbar-collapse .navbar-nav li:hover>a {
@@ -4296,6 +4297,10 @@ h6,
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.nav-right-part a{
+  text-decoration: none;
 }
 
 .nav-right-part>button {
@@ -6114,6 +6119,7 @@ h6,
 
 .banner-inner .breadcrumb .breadcrumb-item a {
   color: white;
+  text-decoration: none;
 }
 
 .banner-inner .breadcrumb .breadcrumb-item+.breadcrumb-item {
